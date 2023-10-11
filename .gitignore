@@ -1,0 +1,4 @@
+#Academy.txtをすべて除外する。
+Academy.txt
+#20231011フォルダ内のAcademy.txtを除外。
+20231011/Academy.txt
