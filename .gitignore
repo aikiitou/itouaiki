@@ -2,3 +2,9 @@
 Academy.txt
 #20231011フォルダ内のAcademy.txtを除外。
 20231011/Academy.txt
+
+*.vscode
+*.exe
+*.ilk
+*.obj
+*.pdb
