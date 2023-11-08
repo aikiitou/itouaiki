@@ -8,5 +8,7 @@ int main(void)
     for(int i = 0; i <= 10; i++)
     {
         cout << i << endl; // 現在の数を表示
-    }    
+    }
+
+    return 0;
 }
