@@ -10,4 +10,6 @@ int main(void)
         cout << i << endl; // 現在の数を表示
         i++; // ループを次に進める
     }
+
+    return 0;
 }
