@@ -1,4 +1,5 @@
-#include <iostream>
+#include <stdio.h>
+#include <random>
 #include <time.h>
 
 using namespace std; 
@@ -22,7 +23,7 @@ int main(void)
     int result = -1;
     int target = 5;
 
-    for(int i = 0; i < size; i++)
+    for(int i = 0; i < size; ++i)
     {
         if(data[i] == target)
         {
@@ -31,6 +32,6 @@ int main(void)
         }
     }
 
-    cout << result;
-    cout << endl;
+    printf("%d\n",result);
+
 }
