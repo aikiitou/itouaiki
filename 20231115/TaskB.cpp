@@ -2,8 +2,6 @@
 #include <random>
 #include <time.h>
 
-using namespace std;
-
 int main(void)
 {
     int data[100];
