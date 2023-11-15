@@ -37,4 +37,6 @@ int main(void)
     {
         printf("%d\n",data[i]);
     }
+
+    return 0;
 }

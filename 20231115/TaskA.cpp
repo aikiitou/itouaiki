@@ -30,6 +30,8 @@ int main(void)
         }
     }
 
-    printf("%d\n",result);
+    printf("target_index = %d\n",result);
+
+    return 0;
 
 }
